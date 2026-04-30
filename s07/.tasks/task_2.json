@@ -1,0 +1,10 @@
+{
+  "id": 2,
+  "subject": "Write code",
+  "description": "Write the project code",
+  "status": "pending",
+  "blockedBy": [
+    1
+  ],
+  "owner": ""
+}
